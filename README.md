@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @temitopeandres
+- 👋 Hi, I’m Temitope Olagoke
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data analytics using Microsoft Power BI and Python
 - 💞️ I’m looking to collaborate on projects relating to data analytics
